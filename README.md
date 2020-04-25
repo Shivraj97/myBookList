@@ -3,4 +3,4 @@
 ### The project was intended to built using only vanilla.js without any frameworks and have a persistent local storage to store books details.
 
 Project Demo: 
-![FrontEnd](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "MyBookList")
+![FrontEnd](images/myBookList.png "MyBookList")
